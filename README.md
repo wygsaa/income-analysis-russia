@@ -20,8 +20,8 @@
 очистку данных от пропусков и дубликатов,
 приведение числовых значений к единому формату,
 стандартизацию названий регионов.
-Все исходные и обработанные данные сохранены в папке [data/cleaned_data.csv](https://github.com/wygsaa/income-analysis-russia/edit/main/README.md#:~:text=cleaned_data.csv)
-
+Все исходные и обработанные данные сохранены в папке [[data/cleaned_data.csv](https://github.com/wygsaa/income-analysis-russia/edit/main/README.md#:~:text=cleaned_data.csv)
+](https://github.com/wygsaa/income-analysis-russia/blob/78658ac69ecc5f97585fe2592bf079fe2090ccbf/data/cleaned_data.csv)
 Анализ
 В рамках проекта были выполнены следующие шаги анализа:
 Расчёт основных описательных статистик: среднее, медиана, минимальное и максимальное значения доходов.
