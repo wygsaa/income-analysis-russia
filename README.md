@@ -30,7 +30,7 @@
 Визуализация данных через столбчатые, линейные и круговые диаграммы.
 Применение условного форматирования для наглядного выделения высоких и низких значений.
 
-Примеры визуализаций: [visualizations/ ](https://github.com/wygsaa/income-analysis-russia/edit/main/README.md#:~:text=visualizations)
+Примеры визуализаций: [[visualizations/ ](https://github.com/wygsaa/income-analysis-russia/edit/main/README.md#:~:text=visualizations)](https://github.com/wygsaa/income-analysis-russia/tree/09a1b13487d0c78397062fc12257a43aef9deea9/visualizations)
 
 Референсы
 Росстат - официальный источник данных
